@@ -1,0 +1,1 @@
+C:\Fontes\app-xamarin\aula01\aula01\aula01\aula01.UWP\aula01.UWP.csproj;x86
